@@ -153,3 +153,4 @@ class dLinkedList:
             p=q
             q=q.prev
         self.headval=p
+linkedlist=dLinkedList()        
