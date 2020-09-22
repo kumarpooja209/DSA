@@ -6,4 +6,5 @@
 5. Bubble Sort
 6. Insertion Sort
 7. Selection Sort
+8. Binary Search (Iterative and Recursion)
 
